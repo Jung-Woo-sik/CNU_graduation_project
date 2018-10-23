@@ -1,0 +1,12 @@
+Win32 OpenSSL v1.1.0b Light	https://slproweb.com/download/Win32OpenSSL_Light-1_1_0b.exe
+Win32 OpenSSL v1.1.0b		https://slproweb.com/download/Win32OpenSSL-1_1_0b.exe
+Win64 OpenSSL v1.1.0b Light	https://slproweb.com/download/Win64OpenSSL_Light-1_1_0b.exe
+Win64 OpenSSL v1.1.0b		https://slproweb.com/download/Win64OpenSSL-1_1_0b.exe
+Win32 OpenSSL v1.0.2j Light	https://slproweb.com/download/Win32OpenSSL_Light-1_0_2j.exe
+Win32 OpenSSL v1.0.2j		https://slproweb.com/download/Win32OpenSSL-1_0_2j.exe
+Win64 OpenSSL v1.0.2j Light	https://slproweb.com/download/Win64OpenSSL_Light-1_0_2j.exe
+Win64 OpenSSL v1.0.2j		https://slproweb.com/download/Win64OpenSSL-1_0_2j.exe
+Win32 OpenSSL v1.0.1u Light	https://slproweb.com/download/Win32OpenSSL_Light-1_0_1u.exe
+Win32 OpenSSL v1.0.1u		https://slproweb.com/download/Win32OpenSSL-1_0_1u.exe
+Win64 OpenSSL v1.0.1u Light	https://slproweb.com/download/Win64OpenSSL_Light-1_0_1u.exe
+Win64 OpenSSL v1.0.1u		https://slproweb.com/download/Win64OpenSSL-1_0_1u.exe
